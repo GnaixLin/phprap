@@ -293,10 +293,10 @@
 - 如果您在使用过程中有任何疑问，或有好的意见和想法，请通过以下途径联系我或者新建 [Issue](https://gitee.com/gouguoyin/phprap/issues)  讨论新特性或者变更。
 - 官方网站：[www.phprap.com](http://www.phprap.com)
 - 演示网站：[demo.phprap.com](http://demo.phprap.com)
-- 官方QQ群：421537504 <a style="margin-left:10px" target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=d49826b55d1759513ce5d68253b3f0589b227587edf87059aa08125e620b73c0"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="GoPHP官方交流群" title="GoPHP官方交流群"></a>
+- 官方QQ群：421537504 <a style="margin-left:10px" target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=d49826b55d1759513ce5d68253b3f0589b227587edf87059aa08125e620b73c0"><img border="0" src="https://images.gitee.com/uploads/images/2019/1224/115010_464988e6_544375.png" alt="GoPHP官方交流群" title="GoPHP官方交流群"></a>
 
 ## 捐献
 - 如果觉得还不错，请作者喝杯咖啡吧，开源不易，您的支持是我前进的动力！
 
-![微信](http://www.phprap.com/static/images/site/wxpay.jpg)
-![支付宝](http://www.phprap.com/static/images/site/alipay.jpg)
+![微信](https://images.gitee.com/uploads/images/2019/1224/114958_fced31b8_544375.jpeg "wxpay.jpg")
+![支付宝](https://images.gitee.com/uploads/images/2019/1224/115034_8a947574_544375.jpeg "alipay.jpg")
