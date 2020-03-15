@@ -345,10 +345,11 @@ class Agent extends Mobile_Detect
      * @param array $all
      * @return array
      */
-    protected static function mergeRules(...$all)
+    protected static function mergeRules()
     {
         $merged = [];
 
+	$all=func_get_args();
         foreach ($all as $rules) {
             foreach ($rules as $key => $value) {
                 if (empty($merged[$key])) {
